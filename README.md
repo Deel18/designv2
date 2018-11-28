@@ -1,3 +1,3 @@
-Min me/redovisa
+My me/redovisa
 ====================
-skriver nagonting trevligt.
+Working with the Design course given at BTH.
