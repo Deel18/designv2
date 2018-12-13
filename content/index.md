@@ -13,9 +13,7 @@ views:
 Min me-sida i kursen design
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
-
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+[FIGURE src="image/me.jpg?w=500" class="right"]
 
 Hej! Jag heter Denis och studerar för tillfället webbprogrammering vid BTH. Jag är ganska ny när det kommer till programmering, däremot tycker jag att det är väldigt intressant och hoppas på att kunna lära mig många nya saker under min studietid och kunna använda det dagligen. Ser fram emot det!
 

@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Länkar
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[Kursen Design](https://dbwebb.se/kurser/design-v2) [Github-repo](https://github.com/dbwebb-se/design)
