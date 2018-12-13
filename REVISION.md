@@ -1,10 +1,22 @@
 Revision history
 ====================
 
+
+v3.0.0 (2018-12-13)
+----------------------
+
+* Completed kmom03
+* Updated theme, completed grid layout.
+
+
+
+
+
 v2.0.0 (2018-11-28)
 ----------------------
 
 * Completed kmom02
+* Created new theme, added responsive design.
 
 
 

@@ -4342,7 +4342,6 @@ template {
  */
 html {
   overflow-y: scroll;
-  background-color: #333;
 }
 body {
   margin: 0;

@@ -18,14 +18,8 @@ views:
 ---
 Om
 =========================
+Hemsidan är en del av kursen Teknisk webbdesign och användbarhet
+Kursen ges på BTH och ämnar träna webbprogrammeraren inför att förberedda
+hemsidor för design och användbarhet.
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
-
-Några kloka ord om kursen Design som ges på BTH.
-
-En fin liten bild som representerar kursen.
-
-[FIGURE src=image/design.jpeg?w=300 caption="Ett fint träd"]
-
-[Github-repo](https://github.com/dbwebb-se/design)
-[Me-repo](https://github.com/Deel18/designv2/blob/v1.0.0/content/index.md)
+[FIGURE src=image/design.jpeg?w=300]
