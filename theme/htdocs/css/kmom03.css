@@ -4346,7 +4346,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  color: #333;
   background-color: #ddd;
   font: 16px/1.5 "helvetica";
 }
@@ -4878,6 +4877,10 @@ p {
 .left-mini {
   height: 150px;
   width: 150px;
+}
+.royalLondon {
+  float: right;
+  width: 300px;
 }
 /**
  * Layout style for general structure of header, navbar, main, footer

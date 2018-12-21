@@ -1,6 +1,6 @@
 /*!
  *
- * This stylesheet is for the design course and kmom03. Its intention is to
+ * This stylesheet is for the design course and kmom04. Its intention is to
  * use kmom01.css and lessify the style and use this as a wrapper for the new
  * style.
  */
@@ -4347,7 +4347,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #ddd;
-  font: 16px/1.5 "helvetica";
+  font: 16px/1.5 "verdana";
 }
 img {
   max-width: 100%;
@@ -4358,7 +4358,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "helvetica";
+  font-family: "verdana";
   margin-top: 24px;
   margin-bottom: 24px;
 }
@@ -4678,10 +4678,10 @@ hr::after {
   * General layout
   */
 .wrap-all {
-  background-color: #945b7a;
+  background-color: #20272B;
 }
 html {
-  background-color: #945b7a;
+  background-color: #20272B;
 }
 .row {
   display: block;
@@ -4728,7 +4728,7 @@ html {
   margin-right: auto;
   margin-left: auto;
   max-width: 100%;
-  background-color: #e4d6de;
+  background-color: #2E3542;
   margin-bottom: 10px;
 }
 .region-header-col-1,
@@ -4852,7 +4852,7 @@ html {
   width: 32.07091611%;
   margin-left: 0.52083333%;
   margin-right: 0.52083333%;
-  background-color: #c9adbd;
+  background-color: #20272B;
   border: black solid 1px;
   text-align: center;
 }
@@ -4862,12 +4862,21 @@ html {
   width: 99.04166667%;
   margin-left: 0.52083333%;
   margin-right: 0.52083333%;
-  background-color: #945b7a;
+  background-color: #20272B;
   text-align: center;
 }
+h1,
+h2,
+h3,
 h4,
+h5,
+h6,
+a,
 p {
-  color: black;
+  color: #FFEBCD;
+}
+.rm-desktop li {
+  color: #FFEBCD;
 }
 .right {
   height: 250px;

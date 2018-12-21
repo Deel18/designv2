@@ -1,3 +1,3 @@
 #### Studier
 
-Studerar för tillfället Webbprogrammering på BTH.
+Studerar Webbprogrammering på BTH.
