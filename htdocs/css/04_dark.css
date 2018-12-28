@@ -53,8 +53,6 @@ hr {
   /* 1 */
   height: 0;
   /* 1 */
-  overflow: visible;
-  /* 2 */
 }
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
@@ -163,7 +161,6 @@ textarea {
 button,
 input {
   /* 1 */
-  overflow: visible;
 }
 /**
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
@@ -237,9 +234,6 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE 10+.
  */
-textarea {
-  overflow: auto;
-}
 /**
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.
@@ -4403,7 +4397,7 @@ h3 {
   line-height: 1.71428571;
   font-weight: normal;
   margin-bottom: 23px;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #EEE;
 }
 h3 + h4 {
   margin-top: 24px;
@@ -4413,7 +4407,7 @@ h4 {
   line-height: 1;
   font-weight: normal;
   margin-bottom: 23px;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #EEE;
 }
 h4 + h5 {
   margin-top: 24px;
@@ -4422,7 +4416,7 @@ h5 {
   font-size: 1.25em;
   line-height: 1.2;
   margin-bottom: 23px;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #EEE;
 }
 h5 + h6 {
   margin-top: 24px;
@@ -4431,7 +4425,7 @@ h6 {
   font-size: 1.25em;
   line-height: 1.2;
   margin-bottom: 23px;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #EEE;
 }
 p {
   margin-bottom: 24px;
@@ -4875,10 +4869,13 @@ a,
 p {
   color: #FFEBCD;
 }
+code {
+  background-color: purple;
+}
 .rm-desktop li {
   color: #FFEBCD;
 }
-.right {
+.rightPic {
   height: 250px;
   width: 200px;
   float: right;

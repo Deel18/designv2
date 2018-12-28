@@ -53,8 +53,6 @@ hr {
   /* 1 */
   height: 0;
   /* 1 */
-  overflow: visible;
-  /* 2 */
 }
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
@@ -163,7 +161,6 @@ textarea {
 button,
 input {
   /* 1 */
-  overflow: visible;
 }
 /**
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
@@ -237,9 +234,6 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE 10+.
  */
-textarea {
-  overflow: auto;
-}
 /**
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.

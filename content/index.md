@@ -13,7 +13,7 @@ views:
 Min me-sida i kursen design
 =========================
 
-[FIGURE src="image/me.jpg?w=500" class="right"]
+[FIGURE src="image/me.jpg?w=500" class="rightPic"]
 
 Hej! Jag heter Denis och studerar för tillfället webbprogrammering vid BTH. Jag är ganska ny när det kommer till programmering, däremot tycker jag att det är väldigt intressant och hoppas på att kunna lära mig många nya saker under min studietid och kunna använda det dagligen. Ser fram emot det!
 

@@ -45,7 +45,7 @@ Resultat
 </tr>
 </table>
 
-[FIGURE src="image/royallondon.png" class="royalLondon"]
+[FIGURE src="../htdocs/img/royallondon.PNG" class="royalLondon"]
 
 Royal London har ett analogous färgschema skulle jag säga då hemsidan använder sig av närliggande färger för
 att skapa en lugn och sammansatt sida, den skrikiga orange accentfärgen används för att markera
@@ -63,7 +63,7 @@ typer av fonter. Grot10 - sans-serif används för navbaren medans Georgia - ser
 </tr>
 </table>
 
-[FIGURE src="image/jamieoliver.png" class="royalLondon"]
+[FIGURE src="../htdocs/img/jamieoliver.PNG" class="royalLondon"]
 
 Jamie Olivers sida med matrecept använder sig inte så mycket av färg, då en stor del av hemsidan är vit. Sedan används
 lite olika accentfärger för olika delar av hemsidan, bland annat för att visa navbaren men även visa upp recept som är
@@ -81,7 +81,7 @@ extra speciella. Fonterna som används är Montserrat - serif för navbaren och 
 </tr>
 </table>
 
-[FIGURE src="image/leetcode1.png" class="royalLondon"]
+[FIGURE src="../htdocs/img/leetcode1.PNG" class="royalLondon"]
 
 Leetcodes hemsida har ett akromatiskt färgschema med vitt och grått, där en guldfärg används som accentfärg för vissa länkar som leder vidare till andra funktioner av hemsidan. Fonterna som används inkluderar TypeRound - sans-serif, Helvetica-sans-serif. Sidan är det man hade förväntat sig av en produkt som är till för lära ut mer om programmering, väldigt enkel med mer fokus på innehåll och funktioner.
 

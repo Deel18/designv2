@@ -59,6 +59,11 @@ return [
             "title" => "Rapport om färger.",
         ],
         [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "blogg om bilder.",
+        ],
+        [
             "text" => "Om",
             "url" => "om",
             "title" => "Om denna webbplats.",
