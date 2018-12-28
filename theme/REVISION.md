@@ -2,6 +2,14 @@ Revision history
 =======================
 
 
+v5.0.0 (2018-12-28)
+----------------------
+
+* Completed kmom05
+* Worked with picture-heavy themes
+
+
+
 v4.0.0 (2018-12-21)
 ----------------------
 
