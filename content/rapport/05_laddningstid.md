@@ -6,6 +6,10 @@ Urval
 
 Jag valde att använda liknande sidor från förra analysen. Jag fick byta ut Jamie Olivers hemsida då den vägrade öppna när jag försökte nå webbplatsen. Jag valde att gå med dessa tre olika webbplatser då jag ville se hur stor skillnaden är mellan hemsidor som prioriterar olika saker.
 
+[Royal London](royallondon.com)
+[Gordon Ramsay](gordonramsay.com)
+[Leetcode](leetcode.com)
+
 Metod
 
 Jag använde mig av Pagespeed Insights för att först notera ett betyg för varje hemsida. Sedan skapade jag ett kalkylark där jag skrev ner resultaten av testen. Jag mätte sidornas laddningstider genom att använda mig av Google Devtools - Networks. För snapshots så använde jag mig av Windows inbyggda Snippingtool.

@@ -1,6 +1,14 @@
 Revision history
 =======================
 
+v6.0.0 (2018-12-31)
+----------------------
+
+* Completed kmom06
+* Worked with design elements and principles
+
+
+
 
 v5.0.0 (2018-12-28)
 ----------------------
